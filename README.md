@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Wanhui Sheng, MS
+#### Who am I
+I am a neuroscientist currently working at University of Florida.
+
+#### What bench works do I do
+I use electrophysiological, calcium imaging, optogenetic and transgenic approaches to study cellular and circuitry neuronal physiology.
+![](merge-dual-patch.png)
+
+
+
 
 <!--
 **shengwanhui/shengwanhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
