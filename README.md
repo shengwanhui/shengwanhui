@@ -4,7 +4,7 @@ I am a neuroscientist currently working at University of Florida.
 
 I use electrophysiological, calcium imaging, optogenetic and transgenic approaches to study cellular and circuitry neuronal physiology.
 
-<img src="merge-dual-patch.png" height="300"> 
+<img src="merge-dual-patch.png" height="500"> 
 
 
 
