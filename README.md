@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Wanhui Sheng
 
-I am a neuroscientist currently working at University of Florida.
+I am a neuroscientist currently working at Columbia University.
 
 I use electrophysiological, calcium imaging, optogenetic and transgenic approaches to study cellular and circuitry neuronal physiology.
 
